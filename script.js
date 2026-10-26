@@ -181,6 +181,7 @@ try {
                 }
 
                 showStatus('success', 'Thank you! Your return request has been submitted.');
+                window.location.assign('https://alfakher2019.github.io/OOKA-DE-return-request-thank-you/');
                 form.reset();
 
                 // Reset to a single product
